@@ -3,7 +3,7 @@
   import Footer from '$lib/components/Footer.svelte';
 </script>
 
-<Header title="Mijn Professionele App" />
+<Header />
 
 <main class="p-4">
   <slot />  <!-- hier komt de content van de pagina -->
