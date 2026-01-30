@@ -4,12 +4,12 @@
 </script>
 
 
-<header class="flex items-center justify-between p-4 bg-gray-100">
+<header class="flex items-center h-[8vh] justify-between p-4 bg-gray-100">
   <!-- Logo / afbeelding -->
-  <img src={imageSrc} alt={alt} class="h-10 w-auto" />
+  <img src={imageSrc} alt={alt} class=" ml-[1vw] w-auto" />
 
   <!-- Navigatie -->
-  <nav class="flex gap-4">
+  <nav class="flex gap-4 max-sm:hidden">
     <a href="/Home" class="text-gray-700 hover:text-gray-900">Home</a>
     <a href="/Home" class="text-gray-700 hover:text-gray-900">Aanbod</a>
     <a href="/Home" class="text-gray-700 hover:text-gray-900">Diensten</a>
