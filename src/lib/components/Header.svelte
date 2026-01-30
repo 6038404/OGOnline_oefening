@@ -1,6 +1,6 @@
 <script lang="ts">
-  export let imageSrc: string = "/default-logo.png"; // default fallback
-  export let alt: string = "Logo"; // good for accessibility
+  export let imageSrc: string = "/default-logo.png";
+  export let alt: string = "Logo";
 </script>
 
 

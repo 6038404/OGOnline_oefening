@@ -6,7 +6,7 @@
 <Header />
 
 <main class="p-4">
-  <slot />  <!-- hier komt de content van de pagina -->
+  <slot />
 </main>
 
 <Footer />
