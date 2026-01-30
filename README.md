@@ -15,7 +15,7 @@ To recreate this project with the same configuration:
 
 ```sh
 # recreate this project
-npx sv create --template minimal --types ts --install npm OGOnline_oefening
+npx sv create --template minimal --types ts --install npm test
 ```
 
 ## Developing
